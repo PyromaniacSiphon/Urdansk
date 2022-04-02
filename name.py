@@ -1,0 +1,3 @@
+f_name = ["James","Robert","John","Michael","William","David","Richard","Joseph","Thomas","Charles","Christopher","Daniel","Matthew","Anthony","Mark","Donald","Steven","Steven ","Andrew","Joshua","Kenneth","Kevin","Brian","George","Edward","Ronald","Timothy" ]
+
+l_name = ["Johnson","Williams","Jones","Mulner","Brown","Davis","Miller","Wilson","Moore","Taylor","Anderson","Thomas","Jackson","White","Harris","Martin","Thompson","Garcia","Martinez","Robinson","Clark","Rodriguez","Lewis","Lee","Walker"]
